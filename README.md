@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmineZarrouki
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning full-satck developement
+- 🌱 I’m currently learning full-stack developement
 - 📫 How to reach me zarroukiamine@outlook.com
 
 <!---
